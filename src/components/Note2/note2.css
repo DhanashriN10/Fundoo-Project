@@ -1,0 +1,47 @@
+.main_note2
+{
+    width: 38vw;
+    height: 20vh;
+    border: 1px solid lightgray;
+    margin-top: 30px;
+    margin-left: 550px;
+    display: flex;
+    flex-direction: column;
+}
+.block
+{
+    width: 100%;
+    height: 36%;
+    /* border: 1px solid green; */
+    display: flex;
+    flex-direction: row;
+}
+#p1
+{
+    font-size: large;
+    position: relative;
+    bottom: 10px;
+    float: left;
+    left: 10px;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icons
+{
+    width: 8%;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+.blank3
+{
+    height: 100%;
+    width: 16%;
+    /* border: 1px solid red; */
+}
+.button
+{
+    height: 100%;
+    width: 20%;
+    /* border: 1px solid blue; */
+    color: black;
+}

@@ -1,0 +1,141 @@
+.main_header
+{
+    height: 10vh;
+    width: 100vw;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: row;
+}
+.part101
+{
+    height: 100%;
+    width: 70%;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+}
+.part102
+{
+    height: 100%;
+    width: 30%;
+    /* border: 1px solid green; */
+    display: flex;
+    flex-direction: row;
+}
+.list
+{
+    height: 100%;
+    width: 8%;
+    /* border: 1px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 18px;
+   
+}
+.logo
+{
+    height: 100%;
+    width: 15%;
+    /* border: 1px solid gold; */
+    
+
+}
+#img
+{
+    height: 60px;
+    width: 60px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 8px;
+
+}
+#sp10
+{
+    font-size: xx-large;
+    color: gray;
+    position: relative;
+    top: 13px;
+    left: 1px;
+    font-weight: 90%;
+}
+.blank
+{
+    height: 100%;
+    width: 10%;
+    /* border: 1px solid blue; */
+}
+.blank1
+{
+    height: 100%;
+    width: 30%;
+    /* border: 1px solid green; */
+}
+.symbols
+{
+    height: 100%;
+    width: 65%;
+    /* border: 1px solid blue; */
+    display: flex;
+    flex-direction: row;
+    
+}
+.s1
+{
+    height: 100%;
+    width: 14%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.blank2
+{
+    height: 100%;
+    width: 20%;
+    /* border: 1px solid blue; */
+}
+.search_field
+{
+    height: 70%;
+    width: 75%;
+    /* border: 1px solid purple; */
+    display: flex;
+    flex-direction: row;
+
+     background-color: rgb(242, 242, 242);
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    margin-top: 10px;
+     
+}
+#txt
+{
+    width: 95%;
+    height: 60%;
+    margin-top: 10px;
+    background-color: rgb(242, 242, 242);
+    /* border: 1px solid lightgray; */
+    /* border-radius: 8px; */
+    border: none;
+    font-size: medium;
+}
+#search_icon
+{
+    height: 30px;
+    width: 50px;
+    /* margin-left: 20px; */
+    margin-top: 10px;
+    color: gray;
+    
+}
+
+#im
+{
+    height: 60px;
+    width: 60px;
+    float: left;
+    padding-top: 18px;
+
+}
